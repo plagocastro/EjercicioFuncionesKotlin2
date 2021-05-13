@@ -1,0 +1,4 @@
+rootProject.name = 'EjercicioFuncionesKotlin2'
+
+
+enableFeaturePreview('GRADLE_METADATA')
